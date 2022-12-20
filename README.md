@@ -14,9 +14,9 @@
 
 This is all the information about Tiger's Diff-SVC model in one spot. I'll be updating the information as I update the model.
 
-| Version | Sample Rate | Data | Steps Trained | Pretrained Used |
-| --- | --- | --- | --- | --- |
-| v1 | 22050Hz | 30 minutes | 55,000 | Yes |
+| Version | Sample Rate | Data | Steps Trained | Pretrained Used | Download |
+| --- | --- | --- | --- | --- | --- |
+| [v1](#v1) | 22050Hz | 30 minutes | 55,000 | Yes | [DL](https://github.com/neutrogic/tiger_diff-svc/releases/tag/models) |
 
 ### v1
  
@@ -25,10 +25,6 @@ There's about 30 minutes of data in English and Japanese. This data wasn't inten
 ### Misc.
 
 All artwork on this page is by [Aquiboni](https://boxerbun.fun/)
-
-# Download
-
-[v1 - Download (Github)](https://github.com/neutrogic/tiger_diff-svc/releases/tag/models)
 
 <p align="center">
   <img src="https://github.com/neutrogic/tiger_diff-svc/blob/main/src/ico2.png" width=160>
