@@ -19,7 +19,7 @@ This is all the information about Tiger's Diff-SVC model in one spot. I'll be up
 | Version | Sample Rate | Data | Steps Trained | Pretrained Used | Download |
 | --- | --- | --- | --- | --- | --- |
 | [v1](#v1) | 22050Hz | 30 minutes | 55,000 | Yes | [DL](https://github.com/neutrogic/tiger_diff-svc/releases/tag/models) |
-| [v2](#v2) | 44100Hz | 120 minutes | 190,000 | No | DL |
+| [v2](#v2) | 44100Hz | 120 minutes | 190,000 | No | [Colab Notebook](https://colab.research.google.com/drive/1LhBhCscY7ukpihpkQW7FzV-PXXXKQ69t?usp=sharing) |
 
 ### v1
  
