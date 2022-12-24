@@ -8,9 +8,9 @@
 
 # Sample
 
-[v2 - Bloody Mary (Sped-Up)(SoundCloud)](https://soundcloud.com/giraffe-kun/tiger-diff-svc-v2-441khz-model-bloody-mary-sped-up)
+[v2 - Bloody Mary (Sped-Up)](https://soundcloud.com/giraffe-kun/tiger-diff-svc-v2-441khz-model-bloody-mary-sped-up)
 
-[v1 - Future Love (SoundCloud)](https://soundcloud.com/giraffe-kun/future-love-lady-gaga-tiger-diff-svc)
+[v1 - Future Love](https://soundcloud.com/giraffe-kun/future-love-lady-gaga-tiger-diff-svc)
 
 # About
 
